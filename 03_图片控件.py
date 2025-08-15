@@ -2,7 +2,7 @@ from PyQt5.QtWidgets import QApplication,QWidget,QLabel
 from PyQt5.QtGui import QPixmap
 import sys
 
-def _init_pixmap(w:QWidget)
+def _init_pixmap(w:QWidget):
      #-------------------------------------------组件初始配置 start 
     label = QLabel()
     Pixmap = QPixmap("./img.png")#这里填写图片的路径
