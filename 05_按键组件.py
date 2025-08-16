@@ -1,4 +1,4 @@
-from PyQt5.QtWidgets import QApplication,QWidget,QVBoxLayout
+from PyQt5.QtWidgets import QApplication,QWidget,QVBoxLayout #QVBoxlayout为竖直布局，QHBoxlayout为水平布局，QFormlayout为表单布局
 from PyQt5.QtCore import pyqtSlot
 from PyQt5.QtWidgets import QPushButton
 import sys
