@@ -24,5 +24,5 @@ class Ui_Form(object):
 
     def retranslateUi(self, Form):
         _translate = QtCore.QCoreApplication.translate
-        Form.setWindowTitle(_translate("Form", "Form"))
+        Form.setWindowTitle(_translate("Form", "窗口"))
         self.btn_send.setText(_translate("Form", "按钮"))

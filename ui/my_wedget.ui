@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>Form</string>
+   <string>窗口</string>
   </property>
   <widget class="QPushButton" name="btn_send">
    <property name="geometry">
