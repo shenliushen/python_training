@@ -11,4 +11,4 @@ w = QWidget()
 w.show()
 
 # 4.等待窗口停止
-sys.exit(app.exec())
+sys.exit(app.exec())p
